@@ -1,5 +1,8 @@
 # Changelog
 
+## 3.4.3
+ - Update regexes.php from uap-core
+
 ## 3.4.2
  - Update uap-core
 
